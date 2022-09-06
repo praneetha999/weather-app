@@ -1,0 +1,28 @@
+form {
+  margin: auto;
+  height: 300px;
+  width: 300px;
+}
+input{
+  height: 40px;
+  width: 300px;
+}
+#weather_data{
+  background-color: blue;
+  border-radius: 1rem;
+  max-width: fit-content;
+  cursor: pointer;
+  padding: auto;
+  margin: auto;
+}
+
+#container{
+  background-color: red;
+  border: 3px solid rgb(81, 65, 65);
+  border-radius: 0.5rem;
+  color: white;
+  max-width: fit-content;
+  margin: auto;
+  font-size: 30px;
+
+}
